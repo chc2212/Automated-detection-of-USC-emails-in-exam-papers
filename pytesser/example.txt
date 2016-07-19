@@ -1,0 +1,7 @@
+Usage Example
+>>> from pytesser import *
+>>> image = Image.open('test1.png')  # Open image object using PIL
+>>> print image_to_string(image)     # Run tesseract.exe on image
+fnord
+>>> print image_file_to_string('fnord.tif')
+fnord
