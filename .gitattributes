@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.cls linguist-language=C++
+*.cls linguist-language=Java
