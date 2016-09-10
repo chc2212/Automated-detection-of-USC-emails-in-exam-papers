@@ -1,4 +1,4 @@
-# Automated-detection-of-USC-emails-in-exam-papers
+# Automated-recognition-of-USC-emails-in-exam-papers
 This is an automated email detection system for exam papers. It has a pro-processing system including letter (or number) separation and noise reduction. This application uses Pytesser, which is a Python library for optical character recognition in the recognition stage.
 # Instruction
 ### Pre-processing by visual studio 2010
