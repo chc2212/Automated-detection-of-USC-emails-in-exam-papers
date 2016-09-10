@@ -7,6 +7,7 @@ This is an automated email detection system for exam papers. It has a pro-proces
 2. Open OCR project (ocr/ocr.sln) by using visual studio 2010.  
 3. Execute the OCR solution.
 4. Move folders (e1,e2, e3,… , s1, s2, …) in “ocr” folder to /pytesser/input in “pytesser.zip”.
+
 ### Recognition Processing 
 1. Input "input.txt" files into /pytesser/input folder.
 2. Execute pytesser.py, then you can get output.txt in /pytesser/output
