@@ -20,7 +20,8 @@ In recognition process, each letter is recognized by Pytesser. In this step, Pyt
 # Result and analysis
 Among 6 samples, this program can recognize the 5 samples. But, this program has strong assumption that is if only 2 letters are matched (letter itself and location of the letter), it is considered as matched. To overcome this limitation, we should improve recognition rate basically.  
 
-
+#Test sample
+<img src="https://github.com/chc2212/Automated-detection-of-USC-emails-in-exam-papers/blob/master/pic1.png" width="400" align ="left">
 
 
 
