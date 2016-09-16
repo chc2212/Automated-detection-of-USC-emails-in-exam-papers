@@ -1,5 +1,5 @@
 # Automated-recognition-of-USC-emails-in-exam-papers
-This is an automated email recognition system for exam papers. It has a pro-processing system including letter (or number) separation and noise reduction. This application uses Pytesser, which is a Python library for optical character recognition in the recognition stage.
+This is an automated email recognition system for exam papers. It has a pro-processing system including letter (or number) separation and noise reduction. This application uses Pytesser, which is a Python library for optical character recognition in the recognition stage. 
 # Instruction
 ### Pre-processing by visual studio 2010
 1. Input All png files ( s1, s2…, e1, e2… png) into “ocr” folder. 
